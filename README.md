@@ -17,14 +17,15 @@ Pertanyaan:
 
 Jawaban :
 
-1. Library yang dipakai 	: - jquery-ui-1.10.4.css: https://blog.jqueryui.com/2014/01/jquery-ui-1-10-4/	Documentation	: https://api.jqueryui.com/
-			  	  - bootstrap-theme.css : https://getbootstrap.com/						: https://getbootstrap.com/docs/4.3/getting-started/introduction/
-			  	  - bootstrap.css	: https://getbootstrap.com/						: https://getbootstrap.com/docs/4.3/getting-started/introduction/
-			  	  - backbone.js		: https://backbonejs.org/						: https://backbonejs.org/docs/backbone.html
-			  	  - jquery-1.11.1.js	: https://code.jquery.com/jquery/					: https://api.jquery.com/
-				  - Underscore.js	: https://underscorejs.org						: https://underscorejs.org/
-   
+1. List Library JS & CSS :
 
+* jquery-1.11.1.js , website library at http://jquery.com/ ,and documentation at http://api.jquery.com/
+* Sizzle.js, website library at http://sizzlejs.com/, and documentation at https://github.com/jquery/sizzle/wiki
+* jquery-ui.1.10.4.js, website library at http://jqueryui.com, and documentation at http://api.jqueryui.com/
+* Backbone.js , website library at https://backbonejs.org , and documentation at http://backbonejs.org/docs/backbone.html
+* Underscore.js , website library at http://underscorejs.org , and documentation at http://underscorejs.org/
+* Bootstrap CSS Framework (bootstrap.css) , website library at http://getboostrap.com, and documentation at http://getbootstrap.com/getting-started/
+   
 2. merubah animation_delay dari 100 menjadi 50 supaya lebih cepat dan lebih smooth.
 3. Menghilangkan koma (trailing comma), pada var Typer = Backbone.Model.extend -> defaults.
 4. sudah di diperbaiki 
