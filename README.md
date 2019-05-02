@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Typer Problem   
     
 Kita mencari developer yang mandiri, ketika ada masalah, aktif mencari solusi dengan sendirinya dan mudah mengerti instruksi tanpa terlalu banyak menanyakan untuk memahami instruksi.     
@@ -40,6 +41,10 @@ Challenge yang diberikan Tim Qerja.com kepada saya
 # Qerja-Challenge
 Challenge yang diberikan Tim Qerja.com kepada saya
 >>>>>>> 1f0ded477c6fa74e4ff39919a0d87519a5738d3f
+=======
+# Qerja-Challenge
+Challenge yang diberikan Tim Qerja.com kepada saya
+>>>>>>> de41c19553af8b6f7aa6039c1508c37684c93ab0
 =======
 # Qerja-Challenge
 Challenge yang diberikan Tim Qerja.com kepada saya
