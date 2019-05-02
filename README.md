@@ -20,7 +20,6 @@ Jawaban :
 1. List Library JS & CSS :
 
 * jquery-1.11.1.js , website library at http://jquery.com/ ,and documentation at http://api.jquery.com/
-* Sizzle.js, website library at http://sizzlejs.com/, and documentation at https://github.com/jquery/sizzle/wiki
 * jquery-ui.1.10.4.js, website library at http://jqueryui.com, and documentation at http://api.jqueryui.com/
 * Backbone.js , website library at https://backbonejs.org , and documentation at http://backbonejs.org/docs/backbone.html
 * Underscore.js , website library at http://underscorejs.org , and documentation at http://underscorejs.org/
